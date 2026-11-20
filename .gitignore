@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.vene/
+vene/
+.idea/
+.env
+*.log
